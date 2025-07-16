@@ -1,1 +1,1 @@
-# Projects---Python
+**Exploratory Data Analysis (EDA) Projects Repository**
